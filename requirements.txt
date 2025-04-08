@@ -1,0 +1,13 @@
+open3d
+pyrealsense2
+tqdm
+numpy
+opencv-python
+scikit-image
+scikit-learn
+scipy
+matplotlib
+pandas
+torch
+PyMCubes
+torchvision
